@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
     <update>
-        <name>Обновление 0.2 для ace плагина</name>
+        <name>Обновление 0.3 для ace плагина</name>
         <description>Тестируем обновление с гита для плагина</description>
         <element>plg_ace_editor</element>
         <type>plugin</type>
-        <version>0.2</version>
+        <version>0.3</version>
         <infourl title="com_places">https://github.com/Shance/plg_ace_editor</infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/Shance/plg_ace_editor/archive/master.zip</downloadurl>
