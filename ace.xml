@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Обновление 0.2 для ace плагина</name>
+        <description>Тестируем обновление с гита для плагина</description>
+        <element>plg_ace_editor</element>
+        <type>plugin</type>
+        <version>0.2</version>
+        <infourl title="com_places">https://github.com/Shance/plg_ace_editor</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/Shance/plg_ace_editor/archive/master.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+
+        <maintainer>Shangin Nikolai @shance</maintainer>
+        <maintainerurl>https://github.com/Shance</maintainerurl>
+        <section>Testing</section>
+        <targetplatform name="joomla" version="3.4" />
+    </update>
+</updates>
